@@ -1,6 +1,10 @@
 {
-  "version_code": 0,
-  "force": true,
-  "url": "",
-  "desc": ""
+  "errorCode": 0,
+  "data": {
+    "version_code": 0,
+    "force": true,
+    "url": "",
+    "desc": ""
+  },
+  "errorMsg": ""
 }
