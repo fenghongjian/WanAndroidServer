@@ -5,7 +5,9 @@
     "name": "Goweii",
     "desc": "不相信自己的人没有努力的价值",
     "github": "https://github.com/goweii",
-    "jianshu": "https://www.jianshu.com/u/78fecab193fa"
+    "jianshu": "https://www.jianshu.com/u/78fecab193fa",
+    "qq_qrcode": "https://raw.githubusercontent.com/goweii/WanAndroidServer/master/about/qq_qrcode.png",
+    "wx_qrcode": "https://raw.githubusercontent.com/goweii/WanAndroidServer/master/about/wx_qrcode.png"
   },
   "errorMsg": ""
 }
