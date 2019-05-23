@@ -1,1 +1,11 @@
-
+{
+  "errorCode": 0,
+  "data": {
+    "icon": "https://avatars3.githubusercontent.com/u/5456892",
+    "name": "Goweii",
+    "desc": "不相信自己的人没有努力的价值",
+    "github": "https://github.com/goweii",
+    "jianshu": "https://www.jianshu.com/u/78fecab193fa"
+  },
+  "errorMsg": ""
+}
