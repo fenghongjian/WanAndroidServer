@@ -1,11 +1,11 @@
 {
   "errorCode": 0,
   "data": {
-    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/wanandroid-v1.0.0.apk",
-    "version_name": "1.0.0",
+    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.1.apk",
+    "version_name": "1.0.1",
     "version_code": 1,
     "force": false,
-    "desc": "第一个版本正式发布",
+    "desc": "1.添加滑动返回 \n 2.优化加载速度 \n 3.修复BUG",
     "time": "2019-05-19"
   },
   "errorMsg": ""
