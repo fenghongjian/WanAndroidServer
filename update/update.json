@@ -3,7 +3,7 @@
   "data": {
     "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.1.apk",
     "version_name": "1.0.1",
-    "version_code": 1,
+    "version_code": 2,
     "force": false,
     "desc": "1.添加滑动返回 \n 2.优化加载速度 \n 3.修复BUG",
     "time": "2019-05-19"
