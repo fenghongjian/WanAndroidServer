@@ -1,12 +1,12 @@
 {
   "errorCode": 0,
   "data": {
-    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.2.apk",
-    "version_name": "1.0.2",
-    "version_code": 3,
+    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.3.apk",
+    "version_name": "1.0.3",
+    "version_code": 4,
     "force": false,
-    "desc": "新增稍后阅读",
-    "time": "2019-05-26"
+    "desc": "1.减小APP体积\n2.优化体验",
+    "time": "2019-05-27"
   },
   "errorMsg": ""
 }
