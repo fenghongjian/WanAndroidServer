@@ -1,12 +1,12 @@
 {
   "errorCode": 0,
   "data": {
-    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.3.apk",
-    "version_name": "1.0.3",
-    "version_code": 4,
+    "url": "https://github.com/goweii/WanAndroidServer/raw/master/update/per.goweii.wanandroid-v1.0.4.apk",
+    "version_name": "1.0.4",
+    "version_code": 5,
     "force": false,
-    "desc": "1.减小APP体积\n2.优化体验",
-    "time": "2019-05-27"
+    "desc": "修复缓存分页加载错乱的BUG",
+    "time": "2019-05-29"
   },
   "errorMsg": ""
 }
